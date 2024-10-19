@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Michal Nithesh </h1>
+<h1 align="center">Hi 👋, I'm nibinbiju </h1>
 
 [![](https://visitcount.itsvg.in/api?id=nithesh14&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<h2 align="left">I'm from Nagercoil</h2>
+<h2 align="left">I'm from kerala</h2>
 
 ## Fun Fact 🎈:
 
